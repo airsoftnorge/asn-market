@@ -1,0 +1,26 @@
+---
+title: "AdakaR"
+layout: default
+permalink: "/author-adakar.html"
+---
+<div class="container">
+<div class="row">
+    <div class="col-md-12">        
+        <div class="row mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">{{page.title}}</h2>
+                <p><a href="{{ site.authors.adakar.site }}">{{ site.authors.adakar.site }}</a></p>
+                <p class="excerpt">{{ site.authors.adakar.bio }}</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="{{ site.authors.adakar.name }}" src="{{ site.authors.adakar.avatar }}" class="rounded" height="100" width="100">
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
+            {% assign posts = site.posts | where:"author","adakar" %}
+            {% for post in posts %}
+            {% include main-loop-card.html %}
+            {% endfor %}
+    </div>
+</div>
+</div>
