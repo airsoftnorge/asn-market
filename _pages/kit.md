@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Tactical kit for sale
-category: Kit
+category: kit
 permalink: /kit
 ---
