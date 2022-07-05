@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Airsoft gear for sale
+title: Airsoft weapons, parts and accessories for sale.
 category: airsoft
 permalink: /airsoft
 ---
