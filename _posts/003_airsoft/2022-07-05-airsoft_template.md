@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Kit for sale 1"
+title: "Airsoftstuff for sale 1"
 author: "staff"
-categories: kit
-tags: []
+categories: airsoft
+tags: [airsoft]
 image: assets/graphics/asn-logo-v1.png
 ---
 
