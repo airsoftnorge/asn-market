@@ -1,3 +1,12 @@
+---
+layout: post <!-- DO NOT CHANGE -->
+title: "Sales listing template" <!-- Example: WTS: LBT 6094M with pouches -->
+author: "staff" <!-- use only your assigned alias, lower-case only -->
+categories: featured
+tags: [featured] <!-- stick to existing tags, as far as possible -->
+image: /assets/graphics/ASN-PLACEHOLDER.png
+---
+
 <!-- The file name of your listing must follow a strict naming convetion:
 YYYY-MM-DD-sales-listing-title.md
 The date in the file name serves as the publishing date for the post.
@@ -10,15 +19,6 @@ Add author name, category (kit, airsoft, featured) and add a link to the cover i
 -->
 
 <!-- Images, including the cover image, must be added to the /assets/images/ directory, in a subfolder with the same name as the file name of your post -->
-
----
-layout: post <!-- DO NOT CHANGE -->
-title: "Sales listing template" <!-- Example: WTS: LBT 6094M with pouches -->
-author: "staff" <!-- use only your assigned alias, lower-case only -->
-categories: featured
-tags: [featured] <!-- stick to existing tags, as far as possible -->
-image: /assets/graphics/ASN-PLACEHOLDER.png
----
 
 <!-- In-text listing title.
 Add " #### " in front of your title to give it a header style and size.
