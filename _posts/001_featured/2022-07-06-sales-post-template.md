@@ -13,11 +13,11 @@ The date in the file name serves as the publishing date for the post.
 Words in the file name should identify the post contents, and be separated only by dashes " - ", and contain no special characters. -->
 
 <!--
-layout: post <!-- DO NOT CHANGE --
-title: "Sales listing template" <!-- Example: WTS: LBT 6094M with pouches --
-author: "staff" <!-- use only your assigned alias, lower-case only --
+layout: post *** DO NOT CHANGE ***
+title: "Sales listing template" *** Example: WTS: LBT 6094M with pouches ***
+author: "staff" *** use only your assigned alias, lower-case only ***
 categories: featured
-tags: [featured] <!-- stick to existing tags, as far as possible --
+tags: [featured] *** stick to existing tags, as far as possible ***
 image: assets/graphics/ASN-PLACEHOLDER.png
 -->
 
