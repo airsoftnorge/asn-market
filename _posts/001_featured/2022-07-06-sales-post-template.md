@@ -17,7 +17,7 @@ title: "Sales listing template" <!-- Example: WTS: LBT 6094M with pouches -->
 author: "staff" <!-- use only your assigned alias, lower-case only -->
 categories: featured
 tags: [featured] <!-- stick to existing tags, as far as possible -->
-image: assets/graphics/ASN-PLACEHOLDER.png
+image: /assets/graphics/ASN-PLACEHOLDER.png
 ---
 
 <!-- In-text listing title.
