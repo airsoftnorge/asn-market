@@ -46,7 +46,7 @@ The main text should contain, at minimum, the following:
 7 - Contact: List the modes of contact prospective buyers can reach you through.
 -->
 
-### Price: NOK 9999,-
+#### Price: NOK 9999,-
 * Payment: Vipps or PayPal. Bank transfer available for Norwegian buyers.
 * Location: Oslo area, Norway
 * Shipping: In Norway: Posten Norgespakke (tracked and insured), NOK 129,- Europe: NOK 468,-
