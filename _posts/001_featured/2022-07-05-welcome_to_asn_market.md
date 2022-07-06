@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to the AirsoftNorge Marketplace"
 author: "staff"
-categories:
+categories: featured
 tags: [featured]
 image: assets/graphics/asn-market-logo-v1.png
 ---
