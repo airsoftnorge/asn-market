@@ -68,6 +68,9 @@ The main text should contain, at minimum, the following:
 Used, but very good condition. Bought it a few years ago, but have not used it since.
 Has some minor scuff marks, webbing shows some signs of fading and having pouches attached, but no actual damage.
 
+<!-- To add images to your listing, use the following syntax.
+This will resize your image to fit the page with (dynamically adjusts to the user's display size), and display the full size image when clicked on. -->
+
 <div class="image-thumbnail">
 	<a href="/assets/graphics/asn-market-logo-v1.png">
 		<img src="/assets/graphics/asn-market-logo-v1.png" width="640"/>
@@ -86,3 +89,80 @@ Brand new and never used, only taken out of packaging and attached to "ITEM".
 </div>
 
 Price: NOK 999,-
+
+# SALES LISTING TEXT SYNTAX
+
+<!-- Use a hashtag ( # ), followed by a space, to denote a heading -->
+
+# Heading 1 (Largest)
+
+## Heading 2 (Very Large)
+
+### Heading 3 (Large)
+
+#### Heading 4 (Medium)
+
+##### Heading 5 (Small)
+
+###### Heading 6 (Smallest)
+
+<!-- Use a single DASH ( - ), followed by a space, at the beginning of a line of text, to make a bullet-pointed list. -->
+
+- A single DASH ( - ), followed by a space, at the beginning of a line of text, will create a bullet-pointed list.
+
+<!-- To make text BOLD, use a pair of asterisks ( ** ), on either side of the word or phrase in question. 
+In this case, a space between the word(s) and syntax are not necessary. -->
+
+**This Text** is made **BOLD**, by using **double asterisks** on either side of the word / phrase.
+
+<!-- To ITALICIZE text, use a single asterisk ( * ) on either side of the word or phrase in question.
+As with BOLD, a space beetween the word(s) and syntax, is not necessary. -->
+
+*This Text* is *ITALICIZED*, by using a *single asterisk* on either side of the word / phrase.
+
+<!-- To make a word or phrase simulatenously BOLD and ITALICIZED, use triple asterisks on either side.
+As above, a space between the word(s) and syntax, is not necessary. -->
+
+***This Text*** is both **BOLD** and *ITALICIZED* at the same time, by using ***triple asterisks*** on either side of the word / phrase.
+
+<!-- To create a block quote, add a > (Greater Than) sign, followed by a space, at the beginning of the line.
+	 When a block quote contains multiple paragraphs / line shifts, make sure to put a > (Greater Than) sign on the empty line(s) as well.
+	 In the case of nested block quotes (one inside another), use two >> (Greater Than) signs to denote the inner block quote. 
+	 Additionally, Headings, Bold, Italics, ordered lists and Bullet-points can also be used within block quotes. -->
+	 
+> Block quotes are made by using a GREATER THAN ( > ) sign, followed by a space, at the beginning of a line.
+>
+>
+> In the case of multi-paragraph block quotes, use the GREATER THAN ( > ) sign at the beginning of every empty line between paragraphs.
+>
+>> To make use of nested block quotes (quotes within a quote), simply use a pair of GREATER THAN ( >> ) signs followed by a space.
+>
+>> Additionally, aforementioned text formatting can also be used inside block quotes, such as:
+> ### Headings
+>
+> * Bulletpoints
+> 
+> **BOLD** and *ITALICS*
+
+<!-- To create an ordered list, simply use a number, followed by a period and then a space ( 1. ), on the beginning of a line of text. -->
+
+01. Numbered lists can be created...
+02. simply by typing numbers...
+03. followed by a period, and a space...
+
+<!-- To create a horizontal break/rule/line, simply add EITHER three asterisks, dashes or underscores, on an empty line by themselves, nestled between two empty lines -->
+
+A horisontal line break can be made in the main text of the sales listing.
+
+---
+
+To do this, simply add ***EITHER*** three *ASTERISKS ( * ), DASHES ( - ) ***or*** UNDERSCORES ( _ ) to an empty line in between two additional empty lines.
+
+<!-- To add an external link, simply use the following syntax: <a href="URL TO EXTERNAL SITE" target="_blank">DISPLAY NAME FOR LINK</a>.
+	 The target="_blank" section of syntax will ensure that the external link opens in a new tab/window, rather than navigating the user away from the ASN Market. -->
+	 
+In order to link to external pages, you can use <a href="https://www.markdownguide.org/hacks/#link-targets" target="_blank">*the following syntax* (MarkdownGuide.org)</a>, to create a link that will open in a new tab or window on the user's device.
+
+<!-- If you would like to link your email address direktly on the site, simply enclose your email adress in angled brackets. -->
+
+To add a clickable link for your email address to the listing, simply enclose it in angled brackets ( < > )<email@example.domain>.
