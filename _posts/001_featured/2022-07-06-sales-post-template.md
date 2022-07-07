@@ -137,9 +137,17 @@ As above, a space between the word(s) and syntax, is not necessary. -->
 > Block quotes are made by using a GREATER THAN ( > ) sign, followed by a space, at the beginning of a line.
 >
 >
+>
+>
 > In the case of multi-paragraph block quotes, use the GREATER THAN ( > ) sign at the beginning of every empty line between paragraphs.
 >
+>
+>
+>
 >> To make use of nested block quotes (quotes within a quote), simply use a pair of GREATER THAN ( >> ) signs followed by a space.
+>
+>
+>
 >
 >> Additionally, aforementioned text formatting can also be used inside block quotes, such as:
 > ### Headings
