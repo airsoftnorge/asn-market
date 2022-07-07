@@ -89,4 +89,4 @@ Price: NOK 999,-
 
 <!-- Jekyll Money plugin test -->
 
-{{ 9999 | money: "NOK" }}
+{{ 5000 | money: "GBP" }}
