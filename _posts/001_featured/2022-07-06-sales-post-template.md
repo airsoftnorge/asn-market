@@ -3,7 +3,7 @@ layout: post
 title: "Sales listing template"
 author: "staff"
 categories: featured
-tags: [featured]
+tags: [featured, template]
 image: assets/graphics/ASN-PLACEHOLDER.png
 ---
 
@@ -62,7 +62,7 @@ The main text should contain, at minimum, the following:
 * Shipping: In Norway: Posten Norgespakke (tracked and insured), NOK 129,- Europe: NOK 468,-
 * Contact: <a target="_blank" href="https://discord.gg/eQafMF6PGQ">Username Staff @AirsoftNorge Discord server</a>.
 
-
+---
 
 * "Manufacturer" "ITEM" in "COLOR" and "SIZE".
 Used, but very good condition. Bought it a few years ago, but have not used it since.
@@ -79,6 +79,8 @@ This will resize your image to fit the page with (dynamically adjusts to the use
 
 Price: NOK 9000,-
 
+---
+
 * "Manufacturer" "Accessory for ITEM" in "COLOR", "SIZE".
 Brand new and never used, only taken out of packaging and attached to "ITEM".
 
@@ -89,6 +91,8 @@ Brand new and never used, only taken out of packaging and attached to "ITEM".
 </div>
 
 Price: NOK 999,-
+
+---
 
 # SALES LISTING TEXT SYNTAX
 
@@ -156,7 +160,7 @@ A horisontal line break can be made in the main text of the sales listing.
 
 ---
 
-To do this, simply add ***EITHER*** three *ASTERISKS ( * ), DASHES ( - ) ***or*** UNDERSCORES ( _ ) to an empty line in between two additional empty lines.
+To do this, simply add ***EITHER*** three *ASTERISKS ( * ), DASHES ( - ) **or** UNDERSCORES ( _ ) to an empty line in between two additional empty lines.
 
 <!-- To add an external link, simply use the following syntax: <a href="URL TO EXTERNAL SITE" target="_blank">DISPLAY NAME FOR LINK</a>.
 	 The target="_blank" section of syntax will ensure that the external link opens in a new tab/window, rather than navigating the user away from the ASN Market. -->
@@ -165,4 +169,4 @@ In order to link to external pages, you can use <a href="https://www.markdowngui
 
 <!-- If you would like to link your email address direktly on the site, simply enclose your email adress in angled brackets. -->
 
-To add a clickable link for your email address to the listing, simply enclose it in angled brackets ( < > )<email@example.domain>.
+To add a clickable link for your email address to the listing, simply enclose it in angled brackets ( < > ): <email@example.domain>.
