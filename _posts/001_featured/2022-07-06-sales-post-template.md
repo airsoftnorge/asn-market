@@ -94,7 +94,7 @@ Price: NOK 999,-
 
 ---
 
-# SALES LISTING TEXT SYNTAX
+# SALES LISTING TEXT FORMATTING
 
 <!-- Use a hashtag ( # ), followed by a space, to denote a heading -->
 
