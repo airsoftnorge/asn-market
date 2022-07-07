@@ -86,3 +86,7 @@ Brand new and never used, only taken out of packaging and attached to "ITEM".
 </div>
 
 Price: NOK 999,-
+
+<!-- Jekyll Money plugin test -->
+
+#### {{ 9999 | money: "NOK" }}
